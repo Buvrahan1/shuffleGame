@@ -20,17 +20,14 @@ Designed to challenge your memory and reaction skills through dynamic levels, li
 ## 🕹️ Game Preview
 
 ### 🧾 Instructions Window
-![Instructions]
 <img width="402" height="138" alt="instructions" src="https://github.com/user-attachments/assets/70d44fe0-ad5c-495a-81d9-1468e20a8b74" />
 
 
 ### 🔢 Level Selection
-![Level Selection]
 <img width="311" height="153" alt="select_level" src="https://github.com/user-attachments/assets/2eaa4c2b-91b3-4077-a960-b575d42a7bad" />
 
 
 ### 🎴 Gameplay (Level 2 Example)
-![Gameplay]
 <img width="492" height="589" alt="gameplay2" src="https://github.com/user-attachments/assets/7524cb2a-7578-413f-b538-549361948b58" />
 
 
